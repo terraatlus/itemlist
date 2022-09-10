@@ -1,4 +1,4 @@
-﻿{
+{
   "traits": [
     {
       "description": "Timmy enjoys the feeling of freedom that comes from being nude. he can handle clothing, but will be happier without it.",
@@ -4048,7 +4048,7 @@
       "defName": "Human",
       "enabled": true,
       "name": "human",
-      "price": 2917
+      "price": 1
     },
     {
       "data": {
@@ -4071,7 +4071,7 @@
       "defName": "ChjAndroid",
       "enabled": true,
       "name": "Android",
-      "price": 2500
+      "price": 1
     },
     {
       "data": {
@@ -4104,7 +4104,7 @@
       "defName": "ChjDroid",
       "enabled": true,
       "name": "Droid",
-      "price": 1417
+      "price": 1
     },
     {
       "data": {
@@ -4138,7 +4138,7 @@
       "defName": "ChjBattleDroid",
       "enabled": true,
       "name": "Battle droid",
-      "price": 3167
+      "price": 1
     },
     {
       "data": {
@@ -4168,7 +4168,7 @@
       "defName": "RSPeacekeeperDefender",
       "enabled": true,
       "name": "Peacekeeper Defender",
-      "price": 4667
+      "price": 1
     },
     {
       "data": {
@@ -4196,7 +4196,7 @@
       },
       "description": "Forest variant of the Defender. It features higher melee skills and agility and has a movement bonus on forest terrain.",
       "defName": "RSPeacekeeperDefenderForest",
-      "enabled": true,
+      "enabled": false,
       "name": "Peacekeeper Defender Forest",
       "price": 4667
     },
@@ -4226,7 +4226,7 @@
       },
       "description": "Desert variant of the Defender. It features higher rate of fire and has a movement bonus on desert terrain.",
       "defName": "RSPeacekeeperDefenderDesert",
-      "enabled": true,
+      "enabled": false,
       "name": "Peacekeeper Defender Desert",
       "price": 4667
     },
@@ -4256,7 +4256,7 @@
       },
       "description": "Winter variant of the Defender. It features higher accuracy and has a movement bonus on snowy terrain.",
       "defName": "RSPeacekeeperDefenderWinter",
-      "enabled": true,
+      "enabled": false,
       "name": "Peacekeeper Defender Winter",
       "price": 4667
     },
@@ -4286,7 +4286,7 @@
       },
       "description": "Standard Security variant of the Enforcer, a common sight on war torn planets and are fielded by massive private and planetary armies. It features higher armour.",
       "defName": "RSPeacekeeperEnforcer",
-      "enabled": true,
+      "enabled": false,
       "name": "Peacekeeper Enforcer",
       "price": 7917
     },
@@ -4316,7 +4316,7 @@
       },
       "description": "Forest variant of the Enforcer. It features higher melee skills and agility and has a movement bonus on forest terrain.",
       "defName": "RSPeacekeeperEnforcerForest",
-      "enabled": true,
+      "enabled": false,
       "name": "Peacekeeper Enforcer Forest",
       "price": 7917
     },
@@ -4346,7 +4346,7 @@
       },
       "description": "Desert variant of the Enforcer. It features higher rate of fire and has a movement bonus on desert terrain.",
       "defName": "RSPeacekeeperEnforcerDesert",
-      "enabled": true,
+      "enabled": false,
       "name": "Peacekeeper Enforcer Desert",
       "price": 7917
     },
@@ -4376,7 +4376,7 @@
       },
       "description": "Winter variant of the Enforcer. It features higher accuracy and has a movement bonus on snowy terrain.",
       "defName": "RSPeacekeeperEnforcerWinter",
-      "enabled": true,
+      "enabled": false,
       "name": "Peacekeeper Enforcer Winter",
       "price": 7917
     },
@@ -4406,7 +4406,7 @@
       },
       "description": "Standard Security variant of the Sentinel, they are often found in few numbers supporting the vast armies of Defenders and Enforcers in an ongoing conflict. It features higher armour.",
       "defName": "RSPeacekeeperSentinel",
-      "enabled": true,
+      "enabled": false,
       "name": "Peacekeeper Sentinel",
       "price": 23333
     },
@@ -4436,7 +4436,7 @@
       },
       "description": "Forest variant of the Sentinel. It features higher melee skills and agility and has a movement bonus on forest terrain.",
       "defName": "RSPeacekeeperSentinelForest",
-      "enabled": true,
+      "enabled": false,
       "name": "Peacekeeper Sentinel Forest",
       "price": 23333
     },
@@ -4466,7 +4466,7 @@
       },
       "description": "Desert variant of the Sentinel. It features higher rate of fire and has a movement bonus on desert terrain.",
       "defName": "RSPeacekeeperSentinelDesert",
-      "enabled": true,
+      "enabled": false,
       "name": "Peacekeeper Sentinel Desert",
       "price": 23333
     },
@@ -4496,7 +4496,7 @@
       },
       "description": "Winter variant of the Sentinel. It features higher accuracy and has a movement bonus on snowy terrain.",
       "defName": "RSPeacekeeperSentinelWinter",
-      "enabled": true,
+      "enabled": false,
       "name": "Peacekeeper Sentinel Winter",
       "price": 23333
     },
@@ -4534,7 +4534,7 @@
       "defName": "ATPP_Android2TX",
       "enabled": true,
       "name": "TX2 Android",
-      "price": 5833
+      "price": 1
     },
     {
       "data": {
@@ -4567,7 +4567,7 @@
       "defName": "ATPP_Android3TX",
       "enabled": true,
       "name": "TX3 Android",
-      "price": 9667
+      "price": 1
     },
     {
       "data": {
@@ -4601,7 +4601,7 @@
       "defName": "ATPP_Android4TX",
       "enabled": true,
       "name": "TX4 Android",
-      "price": 11667
+      "price": 1
     },
     {
       "data": {
@@ -4637,7 +4637,7 @@
       "defName": "ATPP_Android2KTX",
       "enabled": true,
       "name": "TX2K Android",
-      "price": 9167
+      "price": 1
     },
     {
       "data": {
@@ -4673,7 +4673,7 @@
       "defName": "ATPP_Android2KITX",
       "enabled": true,
       "name": "TX2KI Android",
-      "price": 9167
+      "price": 1
     },
     {
       "data": {
@@ -4709,7 +4709,7 @@
       "defName": "ATPP_Android2ITX",
       "enabled": true,
       "name": "TX2I Android",
-      "price": 5833
+      "price": 1
     },
     {
       "data": {
@@ -4742,7 +4742,7 @@
       "defName": "ATPP_Android3ITX",
       "enabled": true,
       "name": "TX3I Android",
-      "price": 9667
+      "price": 1
     },
     {
       "data": {
@@ -4806,7 +4806,7 @@
       },
       "description": "A form of mechanized infantry, produced during an ancient time on this rimworld. These units are very strong, powerful war machines but are subsequently slow and have limited battery to them.",
       "defName": "M7Mech",
-      "enabled": true,
+      "enabled": false,
       "name": "M7 Mechanised infantry",
       "price": 30000
     },
@@ -4838,7 +4838,7 @@
       },
       "description": "A prototype M7 mechanized infantry, equipped with a limited SkyCore unit and SkyMind radio. These units are very strong, powerful war machines and allow digital consciousness to move on battlefields but are subsequently slow and have limited internal storage capacity to them.",
       "defName": "M8Mech",
-      "enabled": true,
+      "enabled": false,
       "name": "M8 Mechanised infantry",
       "price": 30000
     },
@@ -4872,9 +4872,9 @@
       },
       "description": "A lost android, shunned from their transcendant community. The tech used to make them is beyond human comprehension, boasting near unlimited power and requiring little sustinence to operate. They deem all races other than themselves to be somewhat below them and believe that living on a rimworld is a fate worse than death.",
       "defName": "Android5Tier",
-      "enabled": true,
+      "enabled": false,
       "name": "T5 Android",
-      "price": 13333
+      "price": 500
     },
     {
       "data": {
@@ -4908,7 +4908,7 @@
       "defName": "Android4Tier",
       "enabled": true,
       "name": "T4 Android",
-      "price": 10000
+      "price": 1
     },
     {
       "data": {
@@ -4941,7 +4941,7 @@
       "defName": "Android3Tier",
       "enabled": true,
       "name": "T3 Android",
-      "price": 8000
+      "price": 1
     },
     {
       "data": {
@@ -4977,7 +4977,7 @@
       "defName": "Android1Tier",
       "enabled": true,
       "name": "T1 Android",
-      "price": 2333
+      "price": 1
     },
     {
       "data": {
@@ -5013,7 +5013,7 @@
       "defName": "Android2Tier",
       "enabled": true,
       "name": "T2 Android",
-      "price": 4167
+      "price": 1
     },
     {
       "data": {
@@ -5034,7 +5034,7 @@
       },
       "description": "A holographic projection operated by a mind located elsewhere. Despite its humanlike appearance, the avatar could belong to a machine persona with frighteningly alien goals.\n\nIf the projection is destroyed, its emitter will need a day to reestablish coherence, but the mind itself suffers no permanent harm.",
       "defName": "SoSHologramRace",
-      "enabled": true,
+      "enabled": false,
       "name": "hologram",
       "price": 1
     },
