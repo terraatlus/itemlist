@@ -2285,6 +2285,36 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 1
+    },
+    {
+      "description": "This is a machine.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "PLA Steel Torrent",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "PLA_TraitWarMachine",
+      "name": "warmachine",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
     }
   ],
   "races": [
